@@ -1,0 +1,17 @@
+
+
+
+:root {
+   scroll-behavior: smooth;
+   --primary: #4154f1;
+   --secondary: #717ff5;
+   --bgColor: #f6f9ff;
+}
+
+body {
+   font-family: 'Open Sans', sans-serif;
+   color:"#444444";
+   background: var(bgColor);
+   
+}
+
