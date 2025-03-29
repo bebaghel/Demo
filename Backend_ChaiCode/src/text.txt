@@ -1,0 +1,42 @@
+URL Locator
+URI identifire
+URN Name
+
+req headers = from client
+res headers = from server
+representation headers = encoding/ compression
+payload headers = data
+
+// Most commen headers
+Accept : application/json
+User-Agent
+Authorization
+Content-Type
+Cookie
+Cache-Control
+
+CORS
+Access-Control-Allow-Origin
+Access-Control-Allow-Credentials
+Access-Control-Allow-Method
+
+Security
+Cross-Origin-Embedder-Policy
+
+Code
+
+100 Continue
+102 Processing
+200 Ok
+201 Created
+202 Accepted
+304 
+307 Temparary redirect
+308 permanent redirect
+400 bad request
+401 Unauthorized
+402 Payment required
+404 Not Found
+500 Internal Server Error
+504 Gate way time Out
+
